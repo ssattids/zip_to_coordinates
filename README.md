@@ -4,4 +4,6 @@ A repository that contains a mapping table that maps zip codes to latitude to lo
 
 Based on 2016 Census data.
 
-The source files are available here: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2016&layergroup=ZIP+Code+Tabulation+Areas
+The source files are available here: https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2016&layergroup=ZIP+Code+Tabulation+Areas.
+
+Other missing zip codes were manually added from various sources.
